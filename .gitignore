@@ -1,0 +1,6 @@
+*.log
+.env
+coverage
+node_modules
+public/build/
+!public/build/.keep
